@@ -21,6 +21,7 @@ Omec Tool es una herramienta de línea de comandos desarrollada en Python que pr
 
 - Python 3.8 o superior
 - Paquetes adicionales: `scapy`, `requests`, `colorama` (instalables mediante `pip install -r requirements.txt`)
+- Registrarse en `ipinfo.io` y poner vuestra API Key en API_KEY = 'introduce el tuyo'
 
 ## Instalación
 
@@ -30,23 +31,23 @@ Omec Tool es una herramienta de línea de comandos desarrollada en Python que pr
    Usa el setup.bat para obtener una instalación de paquetes automatica.
    También puedes ejecutar el comando pip install -r requirements.txt
    
-   git clone https://github.com/tu_usuario/network-toolkit.git
-   cd network-toolkit
+   git clone https://github.com/buckyahot/omec-tool.git
+   cd omec-tool
 
 2. Escaneo de Dispositivos en la Red
 
    ```bash
-   python network_toolkit.py
+   python main.py
 
 3. Control Remoto
 
    ```bash
-   python network_toolkit.py
+   python main.py
 
 4. Obtener Información de IP
 
    ```bash
-   python network_toolkit.py
+   python main.py
 
 5. Contribuciones
 `Si encuentras algún error o tienes sugerencias, ¡no dudes en abrir un problema o enviar una solicitud de extracción!`
