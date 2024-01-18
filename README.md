@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/release)
 
+![Imagen](https://media.discordapp.net/attachments/1194681005232103538/1197550284034031667/image.png?ex=65bbac9d&is=65a9379d&hm=d47f2826c48da91786318def794b77204d18eafd8d686950e9a4e6d614b2338e&=&format=webp&quality=lossless&width=1216&height=637)
+
 ## Descripción
 
 Network Toolkit es una herramienta de línea de comandos desarrollada en Python que proporciona funcionalidades para escanear dispositivos en la red, control remoto y obtener información detallada de una dirección IP.
