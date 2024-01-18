@@ -62,6 +62,7 @@ def get_ip_info(remote_ip):
         if response.status_code == 200:
             print("\nInformación de IP para", remote_ip)
 
+            # Intenta obtener información si existe
             country = data.get('country', 'No disponible')
             region = data.get('region', 'No disponible')
             city = data.get('city', 'No disponible')
