@@ -79,7 +79,6 @@ def get_ip_info(remote_ip):
                 print("Mensaje de error:", data['error'])
             else:
                 print("Respuesta inesperada:", data)
-
     except requests.exceptions.RequestException as e:
         print("\nError en la solicitud HTTP:", str(e))
     except Exception as e:
