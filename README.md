@@ -29,7 +29,7 @@ Network Toolkit es una herramienta de línea de comandos desarrollada en Python 
    cd network-toolkit
 
 Instala los requisitos:
-
+ ```bash
+or open the setup.bat
 pip install -r requirements.txt
-
 python main.py
