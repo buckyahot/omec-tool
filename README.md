@@ -7,7 +7,7 @@
 
 ## Descripción
 
-Network Toolkit es una herramienta de línea de comandos desarrollada en Python que proporciona funcionalidades para escanear dispositivos en la red, control remoto y obtener información detallada de una dirección IP.
+Omec Tool es una herramienta de línea de comandos desarrollada en Python que proporciona funcionalidades para escanear dispositivos en la red, control remoto y obtener información detallada de una dirección IP.
 
 ## Características
 
