@@ -7,7 +7,8 @@ import requests
 import colorama
 from colorama import Fore, Style
 
-API_KEY = '474bf9c38698ed'
+# Consigue tu API KEY en la página de ipinfo.io registrate y colocalo aqui.
+API_KEY = ''
 
 def print_rainbow_text(text):
     colorama.init()
@@ -79,7 +80,7 @@ def get_ip_info(remote_ip):
                 print("Mensaje de error:", data['error'])
             else:
                 print("Respuesta inesperada:", data)
-                
+
     except requests.exceptions.RequestException as e:
         print("\nError en la solicitud HTTP:", str(e))
     except Exception as e:
